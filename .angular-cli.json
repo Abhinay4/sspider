@@ -9,7 +9,10 @@
       "outDir": "dist",
       "assets": [
         "assets",
-        "favicon.ico"
+        "favicon.ico",
+        "sitemap.txt",
+        "crossdomain.xml",
+        "robots.txt"
       ],
       "index": "index.html",
       "main": "main.ts",
