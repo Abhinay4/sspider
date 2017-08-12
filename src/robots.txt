@@ -1,0 +1,9 @@
+
+User-agent: *
+Disallow: /test
+Allow: /sitemap.html
+Allow: /git
+Allow: /linux
+Allow: /assets/style.css
+Allow: /assets/page.css
+Allow: /assets/page.min.css
